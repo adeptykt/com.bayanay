@@ -1,0 +1,59 @@
+{
+  "_from": "@remobile/react-native-refresh-infinite-listview",
+  "_id": "@remobile/react-native-refresh-infinite-listview@1.0.6",
+  "_inBundle": false,
+  "_integrity": "sha1-Xxf6JYySDLvyRDxLKGeKVg+hXUQ=",
+  "_location": "/@remobile/react-native-refresh-infinite-listview",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@remobile/react-native-refresh-infinite-listview",
+    "name": "@remobile/react-native-refresh-infinite-listview",
+    "escapedName": "@remobile%2freact-native-refresh-infinite-listview",
+    "scope": "@remobile",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@remobile/react-native-refresh-infinite-listview/-/react-native-refresh-infinite-listview-1.0.6.tgz",
+  "_shasum": "5f17fa258c920cbbf2443c4b28678a560fa15d44",
+  "_spec": "@remobile/react-native-refresh-infinite-listview",
+  "_where": "C:\\_Work\\ReactNative\\com.bayanay",
+  "author": {
+    "name": "YunJiang.Fang",
+    "email": "42550564@qq.com"
+  },
+  "bugs": {
+    "url": "https://github.com/remobile/react-native-refresh-infinite-listview/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A awesome pull-down-refresh and pull-up-loadmore listview",
+  "homepage": "https://github.com/remobile/react-native-refresh-infinite-listview",
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "ios",
+    "android",
+    "refresh",
+    "infinite",
+    "listview",
+    "loadmore",
+    "remobile",
+    "mobile"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "@remobile/react-native-refresh-infinite-listview",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/remobile/react-native-refresh-infinite-listview.git"
+  },
+  "version": "1.0.6"
+}
